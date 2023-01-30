@@ -9,7 +9,7 @@
 				echo '<h1>Teste da Linguagem HTML (HyperText Markup Language)</h1>';
 				echo 'Autor: Jefferson L<br>';
 				echo 'Site: procedimentosemti.com.br<br>';
-				echo 'Instagram:jeffersonlins98<br>';
+				echo 'Instagram: jeffersonlins98<br>';
 				echo 'marketing: youtube.com/BoraParaPratica<br>'; 
                 <img src="JPEG_example_JPG_RIP_100.jpg" alt="Religião do God vava">
 			?>
