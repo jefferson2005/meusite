@@ -11,7 +11,7 @@
 				echo 'Site: procedimentosemti.com.br<br>';
 				echo 'Instagram:jeffersonlins98<br>';
 				echo 'marketing: youtube.com/BoraParaPratica<br>'; 
-                <img src="TempleOs.png" alt="Religião do God vava">
+               
 			?>
 		</body>
 	</html>
