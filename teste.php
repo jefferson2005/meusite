@@ -11,7 +11,7 @@
 				echo 'Site: procedimentosemti.com.br<br>';
 				echo 'Instagram: jeffersonlins98<br>';
 				echo 'marketing: youtube.com/BoraParaPratica<br>'; 
-                echo <img src="JPEG_example_JPG_RIP_100.jpg" alt="god">
+                 <img src="JPEG_example_JPG_RIP_100.jpg" alt="god">
 			?>
 		</body>
 	</html>
